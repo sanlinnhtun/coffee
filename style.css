@@ -1,0 +1,40 @@
+.starbucks{
+    width: 60px;
+    height: auto;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.mContainer{
+    display: flex;
+    background-image:url(../images/vecteezy_black-and-white-coffee-shop-background-eps_4684788.jpg );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+
+}
+
+.bodyImages{
+    width: 200px;
+}
+
+.textContainer{
+    color: white;
+}
+
+.imageContainer{
+}
+
+.bottomDiv{
+    display: flex;
+}
+
+.bottomImag{
+    width: 200px;
+}
+
